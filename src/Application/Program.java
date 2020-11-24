@@ -12,7 +12,7 @@ import entities.Product;
 import entities.UsedProduct;
 
 public class Program {
-
+//teste
 	public static void main(String[] args) throws ParseException {
 		Scanner sc = new Scanner(System.in);
 		SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyy");
